@@ -1,0 +1,525 @@
+transaction_id,date,product,category,quantity,unit_price,revenue,region
+TXN-0001,2025-11-24,Smart Watch,Electronics,8,115.49,923.92,
+TXN-0002,02/17/2025,Wool Sweater,Clothing,20,18.14,362.8,South
+TXN-0003,01/04/2025,Dark Chocolate,Food & Beverage,11,142.55,1568.05,South
+TXN-0004,06-11-2025,Bluetooth Speaker,Electronics,18,66.79,1202.22,West
+TXN-0005,2025-04-09,USB-C Hub,Electronics,10,492.68,4926.8,
+TXN-0006,09-07-2025,Cotton T-Shirt,Clothing,3,306.52,919.56,South
+TXN-0007,12/19/2025,Green Tea Set,Food & Beverage,2,118.38,236.76,North
+TXN-0008,06/11/2025,Dark Chocolate,Food & Beverage,13,442.92,5757.96,
+TXN-0009,27/10/2025,Data Science Guide,Books,12,113.56,1362.72,South
+TXN-0010,15/12/2025,Python Cookbook,Books,13,193.9,2520.7,West
+TXN-0010,15/12/2025,Python Cookbook,Books,13,193.9,2520.7,West
+TXN-0011,16-12-2025,Green Tea Set,Food & Beverage,4,150.28,601.12,South
+TXN-0012,2025-04-02,Green Tea Set,Food & Beverage,17,306.44,5209.48,South
+TXN-0013,03-11-2025,Yoga Mat,Sports,4,464.9,1859.6,
+TXN-0014,2025-09-06,Design Patterns,Books,5,331.58,1657.9,Central
+TXN-0015,12/20/2025,Green Tea Set,Food & Beverage,13,497.6,6468.8,
+TXN-0016,01/11/2025,Design Patterns,Books,1,40.14,40.14,
+TXN-0017,23/05/2025,Wool Sweater,Clothing,5,363.06,1815.3,Central
+TXN-0018,04/12/2025,Kitchen Scale,Home & Garden,14,236.18,3306.52,
+TXN-0019,02/25/2025,Winter Jacket,Clothing,18,227.06,4087.08,West
+TXN-0020,2025-10-09,Laptop Stand,Electronics,1,484.65,484.65,
+TXN-0021,01/31/2025,Yoga Mat,Sports,13,136.28,1771.64,
+TXN-0022,05/12/2025,Winter Jacket,Clothing,10,112.76,1127.6,North
+TXN-0023,09/15/2025,Laptop Stand,Electronics,3,426.41,1279.23,North
+TXN-0024,2025-05-07,Python Cookbook,Books,14,330.4,4625.6,Central
+TXN-0025,07/22/2025,Green Tea Set,Food & Beverage,15,,2422.65,
+TXN-0026,10/03/2025,AI Fundamentals,Books,5,466.96,2334.8,North
+TXN-0027,2025-11-10,Trail Mix,Food & Beverage,10,466.22,4662.2,North
+TXN-0028,20-05-2025,Design Patterns,Books,11,105.78,1163.58,
+TXN-0029,21/11/2025,LED Desk Lamp,Home & Garden,1,170.11,170.11,South
+TXN-0030,2025-01-05,USB-C Hub,Electronics,18,22.83,410.94,East
+TXN-0031,21-01-2025,Winter Jacket,Clothing,4,180.07,720.28,Central
+TXN-0032,03/25/2025,Yoga Mat,Sports,6,369.6,2217.6,East
+TXN-0033,2025-03-23,Yoga Mat,Sports,16,115.1,1841.6,
+TXN-0034,12/04/2025,Water Bottle,Sports,9,432.85,3895.65,
+TXN-0035,2025-01-15,Plant Pot Set,Home & Garden,,481.45,9147.55,East
+TXN-0036,2025-09-19,Foam Roller,Sports,7,131.09,917.63,
+TXN-0037,12/10/2025,Kitchen Scale,Home & Garden,3,474.69,1424.07,East
+TXN-0038,08/12/2025,Kitchen Scale,Home & Garden,10,279.43,2794.3,South
+TXN-0039,04/06/2025,Python Cookbook,Books,10,147.02,1470.2,West
+TXN-0040,19/09/2025,Protein Bars,Food & Beverage,3,145.47,436.41,
+TXN-0041,04/26/2025,Running Shoes,Clothing,2,126.2,252.4,West
+TXN-0042,23/12/2025,Jump Rope,Sports,,78.05,624.4,
+TXN-0043,01/04/2025,Laptop Stand,Electronics,8,459.15,3673.2,North
+TXN-0044,15/08/2025,Data Science Guide,Books,6,373.11,2238.66,West
+TXN-0045,09/06/2025,Kitchen Scale,Home & Garden,3,358.2,1074.6,South
+TXN-0046,12/22/2025,Protein Bars,Food & Beverage,3,210.36,631.08,East
+TXN-0047,2025-10-27,Data Science Guide,Books,16,7.92,126.72,East
+TXN-0048,10/07/2025,Resistance Bands,Sports,9,220.74,1986.66,North
+TXN-0049,2025-03-07,Foam Roller,Sports,19,333.18,6330.42,North
+TXN-0050,19/04/2025,Air Purifier,Home & Garden,13,142.74,1855.62,
+TXN-0051,06/29/2025,Organic Coffee,Food & Beverage,2,,756.7,South
+TXN-0052,10/16/2025,Water Bottle,Sports,12,88.06,1056.72,Central
+TXN-0053,2025-10-24,Throw Blanket,Home & Garden,13,201.34,2617.42,
+TXN-0054,2025-06-04,Python Cookbook,Books,12,268.71,3224.52,
+TXN-0055,24/02/2025,Kitchen Scale,Home & Garden,5,220.57,1102.85,
+TXN-0056,27/08/2025,Trail Mix,Food & Beverage,9,164.54,1480.86,South
+TXN-0057,09/11/2025,LED Desk Lamp,Home & Garden,16,426.22,6819.52,South
+TXN-0058,2025-05-22,Design Patterns,Books,3,124.47,373.41,West
+TXN-0059,2025-01-09,Plant Pot Set,Home & Garden,13,347.43,4516.59,East
+TXN-0060,09-10-2025,Kitchen Scale,Home & Garden,9,156.78,1411.02,South
+TXN-0061,04/05/2025,Denim Jeans,Clothing,9,363.67,3273.03,
+TXN-0062,02-04-2025,Laptop Stand,Electronics,5,140.78,703.9,North
+TXN-0063,07-01-2025,Jump Rope,Sports,15,173.65,2604.75,North
+TXN-0064,2025-10-23,Winter Jacket,Clothing,19,474.82,9021.58,North
+TXN-0065,26/04/2025,Jump Rope,Sports,10,430.78,4307.8,West
+TXN-0066,04/17/2025,LED Desk Lamp,Home & Garden,6,,742.38,Central
+TXN-0067,29-04-2025,Green Tea Set,Food & Beverage,15,40.23,603.45,South
+TXN-0068,2025-08-06,Design Patterns,Books,5,454.66,2273.3,
+TXN-0069,28/05/2025,Bluetooth Speaker,Electronics,10,351.37,3513.7,East
+TXN-0069,28/05/2025,Bluetooth Speaker,Electronics,10,351.37,3513.7,East
+TXN-0070,15-06-2025,Wireless Headphones,Electronics,8,481.15,,
+TXN-0071,2025-10-23,Denim Jeans,Clothing,17,327.5,5567.5,East
+TXN-0072,28/06/2025,Air Purifier,Home & Garden,4,429.58,1718.32,East
+TXN-0073,19/01/2025,Smart Watch,Electronics,9,165.02,1485.18,
+TXN-0074,2025-07-31,Wool Sweater,Clothing,12,313.2,3758.4,West
+TXN-0075,13/08/2025,Wireless Headphones,Electronics,20,400.66,8013.2,
+TXN-0076,28/02/2025,USB-C Hub,Electronics,16,466.66,7466.56,East
+TXN-0077,10/10/2025,Resistance Bands,Sports,20,256.58,5131.6,South
+TXN-0078,17-09-2025,Smart Watch,Electronics,10,419.55,4195.5,Central
+TXN-0079,10/10/2025,Water Bottle,Sports,7,490.48,3433.36,South
+TXN-0080,28/12/2025,Resistance Bands,Sports,16,482.59,7721.44,South
+TXN-0081,27/09/2025,USB-C Hub,Electronics,14,436.11,6105.54,South
+TXN-0082,11-02-2025,Trail Mix,Food & Beverage,13,477.3,6204.9,
+TXN-0082,11-02-2025,Trail Mix,Food & Beverage,13,477.3,6204.9,
+TXN-0083,20-11-2025,Running Shoes,Clothing,14,489.28,6849.92,
+TXN-0084,24-01-2025,Smart Watch,Electronics,12,190.55,2286.6,South
+TXN-0085,09/11/2025,Design Patterns,Books,16,456.85,7309.6,South
+TXN-0086,27-08-2025,Trail Mix,Food & Beverage,6,41.56,249.36,East
+TXN-0087,06/04/2025,Jump Rope,Sports,4,122.42,489.68,Central
+TXN-0087,06/04/2025,Jump Rope,Sports,4,122.42,489.68,Central
+TXN-0088,22-07-2025,Laptop Stand,Electronics,2,455.76,911.52,
+TXN-0089,06/30/2025,Protein Bars,Food & Beverage,20,129.06,2581.2,
+TXN-0090,2025-11-27,Kitchen Scale,Home & Garden,2,291.89,583.78,
+TXN-0091,04-10-2025,Web Dev Manual,Books,9,416.08,3744.72,East
+TXN-0092,28/02/2025,USB-C Hub,Electronics,8,430.77,3446.16,
+TXN-0093,2025-07-22,Throw Blanket,Home & Garden,4,230.12,920.48,
+TXN-0094,12/12/2025,Yoga Mat,Sports,20,442.7,8854.0,Central
+TXN-0095,25-12-2025,Dark Chocolate,Food & Beverage,4,74.19,296.76,North
+TXN-0096,21-08-2025,Trail Mix,Food & Beverage,14,295.73,4140.22,
+TXN-0097,2025-05-24,Green Tea Set,Food & Beverage,7,224.47,1571.29,South
+TXN-0098,2025-07-03,Water Bottle,Sports,7,484.26,3389.82,
+TXN-0099,26-01-2025,Winter Jacket,Clothing,19,106.58,2025.02,
+TXN-0100,2025-03-17,Plant Pot Set,Home & Garden,5,272.41,,
+TXN-0100,2025-03-17,Plant Pot Set,Home & Garden,5,272.41,,
+TXN-0101,02-05-2025,USB-C Hub,Electronics,9,30.94,278.46,
+TXN-0102,2025-10-31,Foam Roller,Sports,8,472.98,3783.84,North
+TXN-0103,2025-01-16,Jump Rope,Sports,14,344.62,4824.68,West
+TXN-0104,06-03-2025,Web Dev Manual,Books,18,357.52,6435.36,West
+TXN-0105,2025-12-26,Trail Mix,Food & Beverage,7,217.88,1525.16,South
+TXN-0106,10-06-2025,Plant Pot Set,Home & Garden,16,38.23,611.68,
+TXN-0107,31-01-2025,Organic Coffee,Food & Beverage,14,180.03,2520.42,
+TXN-0108,09-06-2025,Laptop Stand,Electronics,17,110.31,1875.27,
+TXN-0109,05/23/2025,Foam Roller,Sports,20,308.72,6174.4,
+TXN-0110,20-05-2025,Air Purifier,Home & Garden,1,94.8,94.8,South
+TXN-0111,09/29/2025,Jump Rope,Sports,15,173.74,2606.1,East
+TXN-0112,03/21/2025,Python Cookbook,Books,3,139.69,419.07,
+TXN-0113,26/06/2025,Smart Watch,Electronics,19,245.88,4671.72,
+TXN-0114,04/19/2025,Air Purifier,Home & Garden,11,64.39,708.29,West
+TXN-0115,09-12-2025,Bluetooth Speaker,Electronics,2,220.93,441.86,West
+TXN-0116,02-08-2025,Bluetooth Speaker,Electronics,1,483.27,483.27,South
+TXN-0117,02/24/2025,Foam Roller,Sports,13,264.36,3436.68,West
+TXN-0118,2025-11-21,Web Dev Manual,Books,7,453.43,3174.01,East
+TXN-0119,05/12/2025,Wool Sweater,Clothing,5,381.31,1906.55,
+TXN-0120,24/10/2025,Trail Mix,Food & Beverage,20,164.99,3299.8,
+TXN-0121,2025-10-30,Throw Blanket,Home & Garden,,158.65,475.95,West
+TXN-0122,16/02/2025,Foam Roller,Sports,18,477.34,8592.12,
+TXN-0123,09/01/2025,Bluetooth Speaker,Electronics,4,406.43,1625.72,
+TXN-0124,13/08/2025,Web Dev Manual,Books,20,83.58,1671.6,East
+TXN-0125,20-11-2025,Smart Watch,Electronics,4,281.19,1124.76,West
+TXN-0126,2025-06-20,Design Patterns,Books,12,158.56,1902.72,
+TXN-0127,12-07-2025,Wool Sweater,Clothing,3,,974.34,West
+TXN-0128,09/06/2025,Winter Jacket,Clothing,5,43.2,216.0,
+TXN-0129,05-12-2025,Design Patterns,Books,20,191.48,3829.6,South
+TXN-0130,23/01/2025,Plant Pot Set,Home & Garden,15,307.24,4608.6,
+TXN-0131,08/29/2025,Throw Blanket,Home & Garden,15,233.53,3502.95,East
+TXN-0132,11/06/2025,LED Desk Lamp,Home & Garden,16,437.69,7003.04,Central
+TXN-0133,24-03-2025,Foam Roller,Sports,5,416.37,2081.85,North
+TXN-0134,28/01/2025,AI Fundamentals,Books,8,,1569.2,North
+TXN-0135,03/16/2025,Smart Watch,Electronics,16,349.56,5592.96,South
+TXN-0135-X,03/16/2025,Smart Watch,Electronics,16,349.56,0.0,South
+TXN-0136,04/21/2025,Web Dev Manual,Books,17,214.51,3646.67,
+TXN-0137,2025-08-23,Bluetooth Speaker,Electronics,20,270.35,5407.0,
+TXN-0138,04/05/2025,Running Shoes,Clothing,17,487.45,8286.65,North
+TXN-0139,2025-08-29,Dark Chocolate,Food & Beverage,12,130.56,1566.72,North
+TXN-0140,25-10-2025,Running Shoes,Clothing,12,275.28,3303.36,
+TXN-0141,04/04/2025,Bluetooth Speaker,Electronics,2,150.25,300.5,North
+TXN-0142,06/10/2025,LED Desk Lamp,Home & Garden,7,146.62,1026.34,
+TXN-0143,24/07/2025,Water Bottle,Sports,6,250.62,1503.72,West
+TXN-0144,08/09/2025,AI Fundamentals,Books,11,55.79,613.69,East
+TXN-0145,29/06/2025,Smart Watch,Electronics,20,499.08,9981.6,East
+TXN-0146,09/20/2025,USB-C Hub,Electronics,,340.65,6813.0,West
+TXN-0147,2025-10-18,Design Patterns,Books,15,474.67,7120.05,East
+TXN-0148,05/23/2025,Wireless Headphones,Electronics,6,252.03,1512.18,West
+TXN-0149,10-11-2025,Dark Chocolate,Food & Beverage,7,65.71,459.97,
+TXN-0150,13-06-2025,Organic Coffee,Food & Beverage,18,273.37,4920.66,East
+TXN-0151,09/18/2025,USB-C Hub,Electronics,,122.18,610.9,West
+TXN-0152,2025-11-10,Smart Watch,Electronics,13,499.8,6497.4,
+TXN-0153,2025-06-12,Jump Rope,Sports,17,175.53,2984.01,
+TXN-0154,2025-01-29,Design Patterns,Books,10,86.51,865.1,East
+TXN-0155,10-02-2025,Wool Sweater,Clothing,9,66.96,602.64,East
+TXN-0156,29-03-2025,Python Cookbook,Books,1,45.21,45.21,
+TXN-0157,16/01/2025,Trail Mix,Food & Beverage,10,322.74,3227.4,East
+TXN-0158,01/31/2025,Jump Rope,Sports,16,234.9,3758.4,East
+TXN-0159,07/24/2025,Throw Blanket,Home & Garden,18,57.56,1036.08,South
+TXN-0160,16/07/2025,Winter Jacket,Clothing,11,467.21,5139.31,
+TXN-0161,07/06/2025,Wireless Headphones,Electronics,13,255.2,3317.6,South
+TXN-0162,01/12/2025,Throw Blanket,Home & Garden,1,424.35,424.35,West
+TXN-0163,01/27/2025,Throw Blanket,Home & Garden,10,41.4,414.0,Central
+TXN-0164,2025-03-07,Water Bottle,Sports,11,281.13,3092.43,East
+TXN-0165,12-03-2025,Foam Roller,Sports,15,78.73,1180.95,Central
+TXN-0166,03-06-2025,Web Dev Manual,Books,18,247.47,4454.46,Central
+TXN-0167,26-10-2025,Organic Coffee,Food & Beverage,20,239.92,4798.4,
+TXN-0168,29/03/2025,Winter Jacket,Clothing,2,,576.84,
+TXN-0169,30/07/2025,Organic Coffee,Food & Beverage,5,261.75,1308.75,Central
+TXN-0170,30-09-2025,AI Fundamentals,Books,9,306.99,2762.91,South
+TXN-0171,05/28/2025,Dark Chocolate,Food & Beverage,11,242.5,2667.5,Central
+TXN-0172,14/07/2025,Plant Pot Set,Home & Garden,10,25.82,258.2,
+TXN-0173,03-10-2025,AI Fundamentals,Books,5,59.07,295.35,
+TXN-0174,2025-01-27,Water Bottle,Sports,16,54.77,876.32,
+TXN-0175,01/09/2025,Protein Bars,Food & Beverage,10,163.98,1639.8,
+TXN-0176,01/20/2025,Resistance Bands,Sports,2,498.6,997.2,West
+TXN-0177,2025-01-20,Throw Blanket,Home & Garden,20,58.11,1162.2,East
+TXN-0178,16/09/2025,Plant Pot Set,Home & Garden,4,168.69,674.76,
+TXN-0179,10/18/2025,Wool Sweater,Clothing,13,414.36,5386.68,Central
+TXN-0180,2025-05-08,Kitchen Scale,Home & Garden,8,226.13,1809.04,East
+TXN-0180,2025-05-08,Kitchen Scale,Home & Garden,8,226.13,1809.04,East
+TXN-0181,12/21/2025,Wireless Headphones,Electronics,15,156.87,2353.05,West
+TXN-0182,24-11-2025,Throw Blanket,Home & Garden,8,113.47,907.76,South
+TXN-0183,08/30/2025,Wool Sweater,Clothing,3,265.13,795.39,Central
+TXN-0184,09/16/2025,Web Dev Manual,Books,5,86.45,432.25,
+TXN-0185,19/09/2025,Bluetooth Speaker,Electronics,5,259.06,1295.3,West
+TXN-0186,2025-05-11,Protein Bars,Food & Beverage,19,41.15,781.85,West
+TXN-0187,2025-08-30,Kitchen Scale,Home & Garden,6,385.64,2313.84,
+TXN-0188,18/08/2025,Yoga Mat,Sports,18,70.83,1274.94,
+TXN-0189,2025-04-25,Smart Watch,Electronics,15,338.38,5075.7,Central
+TXN-0190,2025-04-07,Bluetooth Speaker,Electronics,20,384.2,7684.0,North
+TXN-0191,01/25/2025,Organic Coffee,Food & Beverage,13,222.29,2889.77,Central
+TXN-0192,22-10-2025,Web Dev Manual,Books,11,122.27,1344.97,South
+TXN-0193,10/30/2025,Dark Chocolate,Food & Beverage,18,250.33,4505.94,East
+TXN-0194,18-03-2025,Resistance Bands,Sports,18,239.39,4309.02,
+TXN-0195,31/07/2025,Web Dev Manual,Books,5,197.27,986.35,East
+TXN-0196,2025-04-08,Kitchen Scale,Home & Garden,20,303.45,6069.0,
+TXN-0197,17-04-2025,LED Desk Lamp,Home & Garden,7,468.89,3282.23,
+TXN-0198,15/04/2025,Wool Sweater,Clothing,11,388.88,4277.68,West
+TXN-0199,2025-08-27,Dark Chocolate,Food & Beverage,11,,5033.49,East
+TXN-0199-X,2025-08-27,Dark Chocolate,Food & Beverage,11,,0.0,East
+TXN-0200,11/10/2025,Plant Pot Set,Home & Garden,7,168.28,1177.96,West
+TXN-0201,08/09/2025,Resistance Bands,Sports,12,88.79,1065.48,
+TXN-0202,2025-09-26,Wireless Headphones,Electronics,1,209.13,209.13,
+TXN-0203,31/01/2025,Dark Chocolate,Food & Beverage,1,,8.27,Central
+TXN-0204,15/09/2025,Running Shoes,Clothing,4,264.57,1058.28,South
+TXN-0205,11/07/2025,Foam Roller,Sports,8,495.17,3961.36,South
+TXN-0206,2025-01-17,Jump Rope,Sports,13,278.59,3621.67,North
+TXN-0207,2025-06-19,Python Cookbook,Books,8,109.65,877.2,
+TXN-0208,2025-05-24,Cotton T-Shirt,Clothing,1,480.93,480.93,Central
+TXN-0209,10/16/2025,Data Science Guide,Books,18,169.21,3045.78,
+TXN-0210,2025-06-27,Bluetooth Speaker,Electronics,8,420.14,3361.12,East
+TXN-0211,21-11-2025,Jump Rope,Sports,8,181.13,1449.04,West
+TXN-0212,2025-05-07,Smart Watch,Electronics,5,193.1,965.5,
+TXN-0212-X,2025-05-07,Smart Watch,Electronics,5,193.1,0.0,
+TXN-0213,07/06/2025,Air Purifier,Home & Garden,4,70.59,282.36,South
+TXN-0214,2025-10-11,Web Dev Manual,Books,11,432.54,4757.94,North
+TXN-0215,05/05/2025,Dark Chocolate,Food & Beverage,6,73.73,442.38,East
+TXN-0216,09-02-2025,Plant Pot Set,Home & Garden,16,298.93,,South
+TXN-0217,14-07-2025,Water Bottle,Sports,14,408.66,5721.24,
+TXN-0218,03-09-2025,Denim Jeans,Clothing,11,149.27,1641.97,
+TXN-0219,21-07-2025,Laptop Stand,Electronics,7,298.15,,Central
+TXN-0220,18/04/2025,LED Desk Lamp,Home & Garden,14,338.12,4733.68,South
+TXN-0221,07/02/2025,Data Science Guide,Books,19,203.4,3864.6,Central
+TXN-0221,07/02/2025,Data Science Guide,Books,19,203.4,3864.6,Central
+TXN-0222,2025-12-26,USB-C Hub,Electronics,,87.34,1048.08,Central
+TXN-0223,2025-08-09,Wireless Headphones,Electronics,9,114.89,1034.01,
+TXN-0224,12/14/2025,LED Desk Lamp,Home & Garden,16,56.75,908.0,West
+TXN-0225,25/06/2025,Wool Sweater,Clothing,16,177.41,2838.56,North
+TXN-0226,2025-02-28,LED Desk Lamp,Home & Garden,6,465.31,2791.86,
+TXN-0227,29/04/2025,Protein Bars,Food & Beverage,6,322.04,1932.24,West
+TXN-0228,01/03/2025,Cotton T-Shirt,Clothing,3,290.79,872.37,
+TXN-0229,08-09-2025,Data Science Guide,Books,20,199.31,3986.2,North
+TXN-0230,2025-06-02,Protein Bars,Food & Beverage,11,63.34,696.74,East
+TXN-0231,22/10/2025,Resistance Bands,Sports,16,319.57,5113.12,
+TXN-0232,06-04-2025,Foam Roller,Sports,2,433.43,866.86,North
+TXN-0233,29/07/2025,Jump Rope,Sports,,87.79,1404.64,Central
+TXN-0234,28/03/2025,Data Science Guide,Books,18,257.85,4641.3,Central
+TXN-0235,22/01/2025,Design Patterns,Books,14,55.7,779.8,
+TXN-0235,22/01/2025,Design Patterns,Books,14,55.7,779.8,
+TXN-0236,14/02/2025,USB-C Hub,Electronics,7,406.3,2844.1,Central
+TXN-0237,04/16/2025,Laptop Stand,Electronics,12,268.48,3221.76,Central
+TXN-0238,2025-09-21,Denim Jeans,Clothing,2,496.28,992.56,
+TXN-0239,07/05/2025,Resistance Bands,Sports,19,318.04,6042.76,
+TXN-0240,21-09-2025,Green Tea Set,Food & Beverage,15,475.38,7130.7,East
+TXN-0241,22-11-2025,Laptop Stand,Electronics,13,112.83,1466.79,West
+TXN-0242,08/03/2025,LED Desk Lamp,Home & Garden,2,,108.58,
+TXN-0243,08/08/2025,Protein Bars,Food & Beverage,10,83.69,836.9,East
+TXN-0244,27/01/2025,Green Tea Set,Food & Beverage,8,,1739.76,North
+TXN-0245,15/12/2025,Wireless Headphones,Electronics,11,409.47,4504.17,
+TXN-0246,2025-02-22,Air Purifier,Home & Garden,10,72.88,728.8,
+TXN-0247,2025-10-16,Design Patterns,Books,15,178.84,2682.6,South
+TXN-0248,2025-02-14,Running Shoes,Clothing,19,366.35,6960.65,East
+TXN-0249,11-10-2025,Organic Coffee,Food & Beverage,10,106.7,1067.0,Central
+TXN-0250,03/05/2025,Yoga Mat,Sports,8,252.29,,Central
+TXN-0251,18/07/2025,Throw Blanket,Home & Garden,6,382.55,,
+TXN-0252,23-07-2025,Trail Mix,Food & Beverage,14,214.67,3005.38,West
+TXN-0253,09/19/2025,Wool Sweater,Clothing,11,198.41,2182.51,
+TXN-0254,2025-05-03,Running Shoes,Clothing,14,62.41,873.74,Central
+TXN-0255,12/29/2025,Organic Coffee,Food & Beverage,6,250.72,1504.32,East
+TXN-0256,2025-05-18,Smart Watch,Electronics,14,139.63,1954.82,North
+TXN-0257,29/01/2025,Design Patterns,Books,12,82.87,994.44,
+TXN-0258,2025-01-23,Running Shoes,Clothing,16,185.17,2962.72,South
+TXN-0259,02/12/2025,Cotton T-Shirt,Clothing,8,211.05,1688.4,
+TXN-0260,01/27/2025,Wool Sweater,Clothing,2,477.27,954.54,North
+TXN-0261,2025-08-22,Plant Pot Set,Home & Garden,10,284.08,2840.8,East
+TXN-0262,04/11/2025,Running Shoes,Clothing,14,16.84,235.76,Central
+TXN-0262-X,04/11/2025,Running Shoes,Clothing,14,16.84,0.0,Central
+TXN-0263,03/12/2025,Green Tea Set,Food & Beverage,4,106.57,426.28,South
+TXN-0264,01/23/2025,Data Science Guide,Books,12,231.94,2783.28,
+TXN-0265,2025-10-18,Resistance Bands,Sports,8,149.38,1195.04,
+TXN-0266,05/20/2025,USB-C Hub,Electronics,5,391.07,1955.35,Central
+TXN-0267,07/03/2025,Water Bottle,Sports,15,136.18,2042.7,North
+TXN-0268,21-04-2025,Running Shoes,Clothing,8,484.36,3874.88,West
+TXN-0269,27/07/2025,Web Dev Manual,Books,8,51.89,,North
+TXN-0270,03/08/2025,Water Bottle,Sports,3,293.25,879.75,East
+TXN-0271,2025-03-07,LED Desk Lamp,Home & Garden,2,471.43,942.86,North
+TXN-0272,16/12/2025,Cotton T-Shirt,Clothing,7,454.61,3182.27,East
+TXN-0273,01/06/2025,Foam Roller,Sports,16,35.18,562.88,East
+TXN-0274,2025-10-06,Water Bottle,Sports,16,274.54,4392.64,West
+TXN-0275,11/02/2025,Smart Watch,Electronics,2,405.28,810.56,West
+TXN-0276,12/03/2025,Throw Blanket,Home & Garden,2,383.2,766.4,South
+TXN-0277,03/30/2025,Wool Sweater,Clothing,11,404.07,4444.77,
+TXN-0278,03/14/2025,Foam Roller,Sports,10,91.9,919.0,North
+TXN-0278-X,03/14/2025,Foam Roller,Sports,10,91.9,0.0,North
+TXN-0279,11/11/2025,Cotton T-Shirt,Clothing,6,459.8,2758.8,
+TXN-0280,26-02-2025,Smart Watch,Electronics,13,295.08,3836.04,East
+TXN-0281,07-09-2025,Wool Sweater,Clothing,20,394.56,7891.2,South
+TXN-0282,2025-04-01,Trail Mix,Food & Beverage,13,,5539.56,
+TXN-0283,2025-04-24,Resistance Bands,Sports,11,373.94,4113.34,South
+TXN-0284,10-12-2025,Yoga Mat,Sports,9,108.79,979.11,
+TXN-0284,10-12-2025,Yoga Mat,Sports,9,108.79,979.11,
+TXN-0285,08/03/2025,Jump Rope,Sports,13,178.86,2325.18,West
+TXN-0286,25/03/2025,Wireless Headphones,Electronics,10,14.94,149.4,East
+TXN-0287,2025-10-08,Throw Blanket,Home & Garden,,447.15,8943.0,
+TXN-0288,21-02-2025,Winter Jacket,Clothing,14,350.11,4901.54,
+TXN-0289,21/07/2025,Running Shoes,Clothing,12,6.89,82.68,North
+TXN-0290,29-03-2025,Bluetooth Speaker,Electronics,4,157.63,630.52,West
+TXN-0291,09/07/2025,Plant Pot Set,Home & Garden,15,27.09,406.35,West
+TXN-0292,2025-12-08,Smart Watch,Electronics,18,209.92,3778.56,
+TXN-0293,02/10/2025,Design Patterns,Books,16,152.93,2446.88,West
+TXN-0294,12/13/2025,Bluetooth Speaker,Electronics,6,474.79,2848.74,South
+TXN-0295,08/11/2025,Protein Bars,Food & Beverage,20,132.65,2653.0,
+TXN-0296,22/05/2025,Laptop Stand,Electronics,19,263.67,5009.73,West
+TXN-0297,2025-02-21,Python Cookbook,Books,10,434.4,4344.0,East
+TXN-0298,30-03-2025,Resistance Bands,Sports,20,306.28,6125.6,
+TXN-0299,01-09-2025,LED Desk Lamp,Home & Garden,11,409.61,4505.71,East
+TXN-0300,04/27/2025,Kitchen Scale,Home & Garden,11,138.36,1521.96,West
+TXN-0301,06-09-2025,Laptop Stand,Electronics,6,37.48,224.88,
+TXN-0302,04/09/2025,USB-C Hub,Electronics,2,230.94,461.88,East
+TXN-0303,2025-03-05,Cotton T-Shirt,Clothing,16,299.05,4784.8,South
+TXN-0304,2025-05-13,LED Desk Lamp,Home & Garden,13,29.58,384.54,
+TXN-0305,18/05/2025,Python Cookbook,Books,1,239.68,,South
+TXN-0306,06-06-2025,Jump Rope,Sports,12,232.2,2786.4,South
+TXN-0307,19-09-2025,Web Dev Manual,Books,20,144.93,2898.6,
+TXN-0308,14-05-2025,Winter Jacket,Clothing,17,383.91,6526.47,North
+TXN-0309,14/01/2025,Air Purifier,Home & Garden,,205.28,2873.92,
+TXN-0310,24/04/2025,Green Tea Set,Food & Beverage,17,153.6,2611.2,South
+TXN-0311,05/13/2025,Green Tea Set,Food & Beverage,3,115.02,345.06,South
+TXN-0312,31/05/2025,Bluetooth Speaker,Electronics,2,433.86,867.72,Central
+TXN-0313,15/12/2025,AI Fundamentals,Books,14,31.76,444.64,
+TXN-0314,08/23/2025,Plant Pot Set,Home & Garden,3,246.35,739.05,
+TXN-0315,03/28/2025,Yoga Mat,Sports,5,309.17,1545.85,
+TXN-0315,03/28/2025,Yoga Mat,Sports,5,309.17,1545.85,
+TXN-0316,2025-07-11,Throw Blanket,Home & Garden,7,13.87,97.09,North
+TXN-0317,16-07-2025,Running Shoes,Clothing,2,152.61,305.22,East
+TXN-0318,10-03-2025,Water Bottle,Sports,7,86.62,606.34,
+TXN-0319,10/29/2025,Smart Watch,Electronics,2,190.72,381.44,
+TXN-0320,2025-12-01,Wireless Headphones,Electronics,14,224.94,3149.16,North
+TXN-0321,04/06/2025,Organic Coffee,Food & Beverage,17,138.64,2356.88,Central
+TXN-0322,2025-05-25,Bluetooth Speaker,Electronics,7,306.46,2145.22,
+TXN-0323,21/01/2025,Denim Jeans,Clothing,11,121.08,1331.88,North
+TXN-0324,2025-02-16,Organic Coffee,Food & Beverage,9,323.95,2915.55,West
+TXN-0325,21-01-2025,Air Purifier,Home & Garden,14,370.58,,North
+TXN-0326,18-06-2025,Foam Roller,Sports,9,439.85,3958.65,North
+TXN-0327,17/07/2025,Resistance Bands,Sports,4,70.59,282.36,
+TXN-0328,19/10/2025,Wool Sweater,Clothing,,390.69,5078.97,Central
+TXN-0329,2025-09-07,Jump Rope,Sports,2,36.35,72.7,
+TXN-0330,10/17/2025,Green Tea Set,Food & Beverage,17,263.94,4486.98,
+TXN-0331,25/11/2025,Wool Sweater,Clothing,20,32.01,640.2,
+TXN-0332,09-09-2025,Cotton T-Shirt,Clothing,9,29.92,269.28,South
+TXN-0333,21/10/2025,Bluetooth Speaker,Electronics,15,,2421.75,West
+TXN-0333,21/10/2025,Bluetooth Speaker,Electronics,15,,2421.75,West
+TXN-0334,16-02-2025,Web Dev Manual,Books,7,329.03,2303.21,West
+TXN-0335,14/10/2025,Green Tea Set,Food & Beverage,15,,921.6,
+TXN-0336,08-10-2025,Organic Coffee,Food & Beverage,2,448.95,897.9,West
+TXN-0337,2025-04-07,Resistance Bands,Sports,15,413.15,6197.25,South
+TXN-0338,2025-10-29,Jump Rope,Sports,19,,9087.89,South
+TXN-0339,27/10/2025,Design Patterns,Books,19,90.96,1728.24,
+TXN-0340,16/07/2025,Design Patterns,Books,9,201.95,1817.55,East
+TXN-0341,20-09-2025,Trail Mix,Food & Beverage,11,357.38,3931.18,Central
+TXN-0342,12/11/2025,Protein Bars,Food & Beverage,17,273.53,4650.01,
+TXN-0343,08/12/2025,Trail Mix,Food & Beverage,10,439.35,,West
+TXN-0344,13-04-2025,Cotton T-Shirt,Clothing,9,77.48,697.32,North
+TXN-0344,13-04-2025,Cotton T-Shirt,Clothing,9,77.48,697.32,North
+TXN-0345,02/22/2025,Trail Mix,Food & Beverage,13,122.61,1593.93,
+TXN-0346,02-08-2025,Python Cookbook,Books,1,373.12,373.12,South
+TXN-0347,27-12-2025,Web Dev Manual,Books,20,102.25,2045.0,
+TXN-0348,2025-03-30,Yoga Mat,Sports,14,143.16,2004.24,East
+TXN-0349,2025-03-21,Cotton T-Shirt,Clothing,20,30.17,603.4,
+TXN-0350,29-12-2025,Design Patterns,Books,6,262.7,1576.2,
+TXN-0351,20-04-2025,Air Purifier,Home & Garden,10,113.13,1131.3,
+TXN-0352,28-02-2025,Resistance Bands,Sports,20,459.71,9194.2,South
+TXN-0353,17-07-2025,AI Fundamentals,Books,1,456.11,456.11,
+TXN-0354,11/30/2025,Throw Blanket,Home & Garden,3,474.36,1423.08,South
+TXN-0355,11/19/2025,Dark Chocolate,Food & Beverage,4,106.76,427.04,
+TXN-0356,12/18/2025,Bluetooth Speaker,Electronics,11,23.75,261.25,North
+TXN-0357,13/05/2025,Jump Rope,Sports,13,219.35,,North
+TXN-0358,2025-10-27,Organic Coffee,Food & Beverage,12,464.38,5572.56,North
+TXN-0359,15/07/2025,Organic Coffee,Food & Beverage,16,82.38,1318.08,South
+TXN-0360,15-03-2025,Green Tea Set,Food & Beverage,1,,278.99,Central
+TXN-0361,13-02-2025,Cotton T-Shirt,Clothing,7,209.26,1464.82,
+TXN-0362,02/28/2025,Trail Mix,Food & Beverage,2,426.44,852.88,Central
+TXN-0363,25/10/2025,Air Purifier,Home & Garden,5,337.29,1686.45,South
+TXN-0364,12-11-2025,Trail Mix,Food & Beverage,5,284.95,1424.75,East
+TXN-0365,31/12/2025,Air Purifier,Home & Garden,5,341.39,1706.95,East
+TXN-0366,2025-03-31,Plant Pot Set,Home & Garden,18,102.23,1840.14,
+TXN-0366,2025-03-31,Plant Pot Set,Home & Garden,18,102.23,1840.14,
+TXN-0367,16/01/2025,Design Patterns,Books,2,278.04,556.08,Central
+TXN-0368,29-10-2025,Denim Jeans,Clothing,17,,4380.05,West
+TXN-0369,12/17/2025,Design Patterns,Books,15,83.82,1257.3,Central
+TXN-0370,2025-07-03,Denim Jeans,Clothing,8,36.12,288.96,East
+TXN-0371,2025-08-21,Smart Watch,Electronics,4,353.35,1413.4,Central
+TXN-0372,12/07/2025,Throw Blanket,Home & Garden,3,260.75,782.25,West
+TXN-0373,2025-09-04,Design Patterns,Books,15,86.97,1304.55,North
+TXN-0374,03/02/2025,Water Bottle,Sports,4,243.35,973.4,West
+TXN-0375,03/07/2025,Wool Sweater,Clothing,2,445.94,891.88,South
+TXN-0376,2025-10-16,Green Tea Set,Food & Beverage,3,112.21,336.63,Central
+TXN-0377,10/26/2025,Web Dev Manual,Books,9,88.02,792.18,
+TXN-0378,2025-02-25,Wool Sweater,Clothing,17,343.76,5843.92,
+TXN-0379,2025-09-30,Bluetooth Speaker,Electronics,5,451.48,2257.4,Central
+TXN-0380,2025-07-09,Trail Mix,Food & Beverage,14,118.6,1660.4,
+TXN-0381,2025-12-23,Resistance Bands,Sports,9,241.18,2170.62,South
+TXN-0382,2025-01-03,Web Dev Manual,Books,4,262.28,1049.12,West
+TXN-0383,30-11-2025,Throw Blanket,Home & Garden,14,284.51,3983.14,Central
+TXN-0384,09/05/2025,Throw Blanket,Home & Garden,18,244.46,4400.28,East
+TXN-0385,03/02/2025,Resistance Bands,Sports,4,111.16,444.64,West
+TXN-0386,2025-07-19,USB-C Hub,Electronics,16,463.3,7412.8,West
+TXN-0387,25-07-2025,Trail Mix,Food & Beverage,2,473.13,,
+TXN-0388,23-09-2025,Running Shoes,Clothing,20,257.72,5154.4,
+TXN-0388-X,23-09-2025,Running Shoes,Clothing,20,257.72,0.0,
+TXN-0389,2025-03-22,Kitchen Scale,Home & Garden,12,336.48,4037.76,West
+TXN-0390,26-05-2025,Air Purifier,Home & Garden,8,305.15,,South
+TXN-0391,2025-10-14,AI Fundamentals,Books,11,473.77,5211.47,
+TXN-0392,15/08/2025,Data Science Guide,Books,8,379.95,3039.6,
+TXN-0392,15/08/2025,Data Science Guide,Books,8,379.95,3039.6,
+TXN-0393,04/02/2025,Protein Bars,Food & Beverage,8,401.08,,West
+TXN-0394,17/02/2025,Green Tea Set,Food & Beverage,3,279.5,838.5,South
+TXN-0395,12/16/2025,Resistance Bands,Sports,8,369.04,2952.32,
+TXN-0396,2025-02-24,Bluetooth Speaker,Electronics,20,,165.6,
+TXN-0397,22-10-2025,Resistance Bands,Sports,17,143.73,2443.41,South
+TXN-0398,17-01-2025,Resistance Bands,Sports,15,488.37,,
+TXN-0399,21-02-2025,Throw Blanket,Home & Garden,9,97.64,878.76,East
+TXN-0400,18/04/2025,Green Tea Set,Food & Beverage,12,427.89,5134.68,East
+TXN-0401,05/19/2025,Data Science Guide,Books,13,102.05,1326.65,
+TXN-0402,19-11-2025,Water Bottle,Sports,,283.26,2549.34,Central
+TXN-0403,2025-11-19,Water Bottle,Sports,9,183.68,1653.12,Central
+TXN-0404,12/14/2025,Web Dev Manual,Books,18,91.4,1645.2,
+TXN-0405,10/02/2025,AI Fundamentals,Books,15,317.7,4765.5,South
+TXN-0406,2025-07-27,USB-C Hub,Electronics,11,117.97,1297.67,East
+TXN-0407,05/07/2025,Resistance Bands,Sports,6,427.83,2566.98,South
+TXN-0408,27/03/2025,Wireless Headphones,Electronics,3,,1406.13,West
+TXN-0409,05/15/2025,Bluetooth Speaker,Electronics,10,118.53,1185.3,
+TXN-0410,06-12-2025,Kitchen Scale,Home & Garden,15,487.62,7314.3,Central
+TXN-0411,30/10/2025,Trail Mix,Food & Beverage,14,264.11,3697.54,
+TXN-0412,07-06-2025,Water Bottle,Sports,5,155.27,776.35,North
+TXN-0413,19/12/2025,Water Bottle,Sports,1,384.11,,
+TXN-0414,15/10/2025,Resistance Bands,Sports,6,358.89,2153.34,
+TXN-0415,10-11-2025,Throw Blanket,Home & Garden,9,209.39,1884.51,
+TXN-0416,25/12/2025,Cotton T-Shirt,Clothing,,80.31,80.31,Central
+TXN-0417,01/05/2025,USB-C Hub,Electronics,1,249.32,249.32,East
+TXN-0418,17-01-2025,USB-C Hub,Electronics,2,136.92,273.84,West
+TXN-0419,2025-01-07,Protein Bars,Food & Beverage,13,386.76,5027.88,West
+TXN-0420,12/07/2025,Jump Rope,Sports,10,,4684.3,South
+TXN-0421,23-11-2025,Cotton T-Shirt,Clothing,2,432.51,865.02,South
+TXN-0421,23-11-2025,Cotton T-Shirt,Clothing,2,432.51,865.02,South
+TXN-0422,2025-10-27,Resistance Bands,Sports,1,484.57,484.57,Central
+TXN-0423,22/03/2025,Laptop Stand,Electronics,11,465.77,5123.47,
+TXN-0424,06/03/2025,Cotton T-Shirt,Clothing,18,395.34,7116.12,
+TXN-0424,06/03/2025,Cotton T-Shirt,Clothing,18,395.34,7116.12,
+TXN-0425,10-03-2025,Bluetooth Speaker,Electronics,15,281.72,4225.8,Central
+TXN-0426,05/21/2025,Laptop Stand,Electronics,5,227.45,,
+TXN-0427,2025-04-05,AI Fundamentals,Books,20,123.2,2464.0,
+TXN-0428,10/10/2025,AI Fundamentals,Books,11,207.85,2286.35,East
+TXN-0429,01/17/2025,Bluetooth Speaker,Electronics,7,53.88,377.16,Central
+TXN-0430,26-01-2025,Wool Sweater,Clothing,3,11.48,34.44,South
+TXN-0431,04/07/2025,LED Desk Lamp,Home & Garden,20,136.58,2731.6,North
+TXN-0432,02/21/2025,Data Science Guide,Books,7,100.59,704.13,
+TXN-0433,24-02-2025,Dark Chocolate,Food & Beverage,14,442.0,6188.0,South
+TXN-0434,04/11/2025,Air Purifier,Home & Garden,18,495.77,8923.86,East
+TXN-0435,05/04/2025,Foam Roller,Sports,9,183.2,1648.8,West
+TXN-0436,09/23/2025,LED Desk Lamp,Home & Garden,10,,4922.8,South
+TXN-0437,10/11/2025,Wireless Headphones,Electronics,15,181.05,2715.75,South
+TXN-0438,20/10/2025,Design Patterns,Books,3,363.17,1089.51,
+TXN-0439,18-02-2025,Laptop Stand,Electronics,13,43.85,570.05,North
+TXN-0440,03/03/2025,Trail Mix,Food & Beverage,1,318.77,318.77,
+TXN-0441,09/15/2025,Running Shoes,Clothing,13,485.66,6313.58,
+TXN-0442,09-03-2025,Bluetooth Speaker,Electronics,19,373.93,7104.67,Central
+TXN-0443,11/03/2025,Design Patterns,Books,16,200.68,3210.88,Central
+TXN-0444,09-08-2025,Trail Mix,Food & Beverage,3,60.7,182.1,West
+TXN-0445,06/06/2025,Throw Blanket,Home & Garden,,313.48,4702.2,West
+TXN-0446,2025-02-13,Organic Coffee,Food & Beverage,8,474.73,,South
+TXN-0447,19/08/2025,Smart Watch,Electronics,7,371.31,2599.17,South
+TXN-0448,2025-03-14,Foam Roller,Sports,17,26.52,450.84,South
+TXN-0449,2025-01-05,Water Bottle,Sports,12,432.82,5193.84,North
+TXN-0450,2025-12-30,Kitchen Scale,Home & Garden,20,268.12,5362.4,South
+TXN-0451,29-09-2025,Kitchen Scale,Home & Garden,13,373.47,4855.11,North
+TXN-0452,14-09-2025,Smart Watch,Electronics,13,445.75,5794.75,
+TXN-0453,07/21/2025,Bluetooth Speaker,Electronics,17,480.5,8168.5,Central
+TXN-0454,09-06-2025,Foam Roller,Sports,5,107.34,536.7,South
+TXN-0455,09/26/2025,Resistance Bands,Sports,19,458.97,8720.43,East
+TXN-0456,2025-03-16,Kitchen Scale,Home & Garden,14,155.16,2172.24,
+TXN-0457,02/24/2025,Running Shoes,Clothing,20,310.39,6207.8,Central
+TXN-0458,19/12/2025,Wool Sweater,Clothing,20,237.04,4740.8,
+TXN-0459,17/01/2025,Smart Watch,Electronics,14,115.16,1612.24,
+TXN-0460,12/11/2025,Green Tea Set,Food & Beverage,15,,6665.4,West
+TXN-0461,2025-11-10,Python Cookbook,Books,15,231.17,3467.55,North
+TXN-0462,2025-07-18,Cotton T-Shirt,Clothing,15,202.03,3030.45,East
+TXN-0463,12/20/2025,Jump Rope,Sports,3,362.71,1088.13,North
+TXN-0464,15/06/2025,USB-C Hub,Electronics,15,297.21,4458.15,
+TXN-0465,12/31/2025,Organic Coffee,Food & Beverage,3,61.51,184.53,West
+TXN-0466,11/10/2025,Foam Roller,Sports,13,26.73,347.49,South
+TXN-0467,2025-04-02,Water Bottle,Sports,10,366.43,3664.3,West
+TXN-0467-X,2025-04-02,Water Bottle,Sports,10,366.43,0.0,West
+TXN-0468,2025-05-10,Jump Rope,Sports,16,274.03,4384.48,North
+TXN-0469,2025-08-15,Web Dev Manual,Books,1,126.13,126.13,Central
+TXN-0470,29-01-2025,USB-C Hub,Electronics,2,335.16,670.32,
+TXN-0471,24-03-2025,Web Dev Manual,Books,19,394.72,7499.68,South
+TXN-0471,24-03-2025,Web Dev Manual,Books,19,394.72,7499.68,South
+TXN-0472,15-06-2025,Yoga Mat,Sports,14,422.44,5914.16,North
+TXN-0473,09/26/2025,Protein Bars,Food & Beverage,20,33.8,676.0,Central
+TXN-0474,28-12-2025,Foam Roller,Sports,11,133.53,1468.83,Central
+TXN-0475,20/11/2025,Resistance Bands,Sports,20,,,East
+TXN-0476,17/04/2025,Yoga Mat,Sports,11,,1958.88,
+TXN-0477,07-06-2025,Web Dev Manual,Books,11,384.68,4231.48,North
+TXN-0478,03/31/2025,Air Purifier,Home & Garden,,458.5,7336.0,
+TXN-0479,21/06/2025,Yoga Mat,Sports,17,153.18,,
+TXN-0480,2025-07-01,Cotton T-Shirt,Clothing,1,172.88,172.88,West
+TXN-0481,07-06-2025,Organic Coffee,Food & Beverage,9,209.87,1888.83,West
+TXN-0482,2025-03-31,LED Desk Lamp,Home & Garden,7,457.11,3199.77,West
+TXN-0483,05-09-2025,Plant Pot Set,Home & Garden,4,411.96,1647.84,Central
+TXN-0484,2025-09-25,Smart Watch,Electronics,2,345.09,690.18,Central
+TXN-0485,2025-06-09,AI Fundamentals,Books,7,163.84,1146.88,South
+TXN-0486,22-03-2025,Wireless Headphones,Electronics,20,282.01,5640.2,North
+TXN-0487,05/26/2025,Running Shoes,Clothing,10,308.57,,East
+TXN-0488,2025-07-16,Bluetooth Speaker,Electronics,13,93.6,1216.8,Central
+TXN-0489,06/20/2025,Trail Mix,Food & Beverage,3,486.97,1460.91,
+TXN-0490,19/02/2025,Kitchen Scale,Home & Garden,16,119.69,1915.04,South
+TXN-0491,07-12-2025,Kitchen Scale,Home & Garden,16,19.98,319.68,West
+TXN-0492,10/22/2025,Python Cookbook,Books,13,409.69,5325.97,
+TXN-0493,30/10/2025,Wool Sweater,Clothing,8,276.23,2209.84,West
+TXN-0494,11-08-2025,Design Patterns,Books,6,332.99,1997.94,North
+TXN-0495,2025-06-16,Resistance Bands,Sports,10,478.16,4781.6,North
+TXN-0496,2025-11-27,USB-C Hub,Electronics,5,,2220.95,
+TXN-0497,19/07/2025,Winter Jacket,Clothing,11,153.37,1687.07,
+TXN-0498,2025-06-26,Python Cookbook,Books,20,493.28,9865.6,West
+TXN-0499,01-01-2025,Smart Watch,Electronics,1,121.44,121.44,
+TXN-0500,04/19/2025,Resistance Bands,Sports,7,279.93,1959.51,

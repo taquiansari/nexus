@@ -1,0 +1,17 @@
+Q2: AI Task Execution Agent
+
+Problem Background
+AI systems are evolving from single-step responses to multi-step task execution agents. These
+agents must interpret user intent, break tasks into logical steps, and execute them reliably.
+Target Users and Product Surface
+The system targets users needing automation such as data processing, API chaining, or workflow
+automation. The product includes an input interface and execution log system.
+Core Requirements
+The system must accept a complex instruction, decompose it into steps, execute each step, and
+maintain logs. It must handle failures gracefully and ensure consistency.
+Desired Outputs and Demo Evidence
+A user provides a complex task and sees step-by-step execution along with outputs, demonstrating
+successful completion.
+Minimum Acceptable Demo
+The demo must run end-to-end on a judge laptop or hosted URL. It must not be a static mock.
+Teams can use any stack, but must explain why their design choices are correct for this problem.

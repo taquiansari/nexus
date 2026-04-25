@@ -1,0 +1,50 @@
+1. The Core Architecture: State-Driven Orchestration
+Most teams will try to string together standard LLM calls. You can stand out by treating the execution process as a state machine or a directed graph. Frameworks designed for cyclic execution, like LangGraph, are uniquely positioned for this because they natively support looping, state management, and recovery.
+
+You can structure your system into specialized roles (similar to how you might organize a multi-agent crew):
+
+The Orchestrator (Planner): Takes the complex user prompt and generates a strict JSON array of sequential steps.
+
+The Specialist Workers: These are tools or sub-agents equipped with specific capabilities (e.g., a Data Processor with Python execution rights, or an API Handler with requests).
+
+The Critic (Evaluator): After a worker completes a step, the Critic evaluates the output against the Planner's original intent.
+
+2. Solving for "Graceful Failure" (The Winning Differentiator)
+Judges will actively try to break your agent. "Graceful failure" means the agent shouldn't just throw a Python exception and die; it needs a self-reflection loop.
+
+Implementation: If the API Handler hits a 404 error, the system state should catch the error and route it back to the Orchestrator with the context: "Step 2 failed because the endpoint is down." * Recovery: The Orchestrator should then dynamically generate an alternate step (e.g., "Search the web for the new API documentation" or "Use a fallback data source").
+
+3. The Execution Log & UI
+The prompt explicitly mentions an "execution log system." The UI needs to build trust by showing the user exactly what the "brain" is doing in real-time.
+
+Real-time streaming: Use WebSockets or Server-Sent Events (SSE) to push updates to the frontend.
+
+Granular visibility: The log should look like a developer console. Show the thought process:
+
+[09:01] 🧠 Planner formulated 3 steps.
+
+[09:01] ⚡ Worker executing Step 1: Fetching data from Stripe API...
+
+[09:02] ❌ Error: Rate limit exceeded. Backing off for 2 seconds...
+
+[09:02] ✅ Step 1 Successful. Output shape: (1000, 5).
+
+4. Nailing the "Minimum Acceptable Demo"
+The judges require it to run on their laptop seamlessly. "It works on my machine" is the fastest way to lose points.
+
+Containerization is mandatory: Package the frontend, backend, and any local vector stores into a unified Docker environment. Provide a single docker-compose up command in your README.
+
+Pre-load safe credentials: If you are chaining APIs, either provide dummy APIs running locally in a container, or securely inject limited-use API keys via a .env.example file that the judges can easily rename.
+
+
+Show me the visualisation
+
+
+The "Wow" Factor Features
+If you want to guarantee a top spot, try to implement one of these stretch goals:
+
+Human-in-the-Loop (HITL): If the agent is about to execute a destructive action (like deleting files or sending an email) or is completely stuck, it should pause execution and prompt the user in the UI: "I encountered an ambiguous data schema. Should I drop the null values or abort? [Drop] / [Abort]".
+
+Visual Graph Output: Alongside the text logs, render a live DAG (Directed Acyclic Graph) in the UI that lights up as different nodes (steps) are executed.
+
+What specific automation scenario (e.g., processing a messy CSV to generate financial reports, or a web scraping pipeline) are you thinking of showcasing for the live demo?
